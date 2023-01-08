@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.programmingtechie.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.379 s <<< FAILURE! - in com.programmingtechie.productservice.ProductServiceApplicationTests
+com.programmingtechie.productservice.ProductServiceApplicationTests  Time elapsed: 1.377 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at com.programmingtechie.productservice.ProductServiceApplicationTests.<clinit>(ProductServiceApplicationTests.java:31)
+
